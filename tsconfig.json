@@ -2,10 +2,10 @@
   "compilerOptions": {
     "experimentalDecorators": true,
     "jsx": "react",
-    "module": "commonjs",
+    "module": "es6",
     "moduleResolution": "node",
     "noImplicitAny": true,
-    "target": "esnext",
+    "target": "es6",
     "declaration": true,
     "downlevelIteration": true,
     "lib": ["es2017", "dom"],
